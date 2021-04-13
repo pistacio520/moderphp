@@ -1,0 +1,19 @@
+{
+    "name": "pbenz/modernphp",
+    "description": "this is my compoer component.",
+    "type": "project",
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "义乌小毛毛",
+            "email": "46677126@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0"
+    },
+    "autoload":{
+        "psr-4":{"Pbenz\\Moderphp\\":"src/Pbenz/Moderphp"}
+    }
+}
