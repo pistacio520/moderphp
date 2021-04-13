@@ -11,4 +11,8 @@ class Tools
  {
   echo "OY,This is my first component of php";
  }
+ public static function Sing()
+ {
+  echo "We are family!";
+ }
 }
